@@ -26,7 +26,6 @@ agents:
 allowed_remote_resources:
     - https://raw.githubusercontent.com/fullsend-ai/fullsend/
     - https://raw.githubusercontent.com/fullsend-ai/agents/
-    - https://raw.githubusercontent.com/halfsend-20/test-repo-04-url-harness-host/
 mint_url: https://bt-9a293e2f-bt-mint.fullsend-ai.workers.dev
 inference:
     project: it-gcp-konflux-e2e-fullsend
